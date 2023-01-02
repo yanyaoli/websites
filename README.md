@@ -1,2 +1,1 @@
-# Network
-Optimization rules for network requests and responses.
+> Optimization rules for network requests and responses.
