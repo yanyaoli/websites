@@ -1,5 +1,5 @@
 ## Introduce
-[**Chinese**](./assets/Chinese.md)
+[**Chinese**](./Chinese.md)
 
 This repository was created to include some useful websites.
 
@@ -9,7 +9,7 @@ This repository was created to include some useful websites.
 
 |[Document](./docs/document.md)|[Video](./docs/video.md)|[Movie](./docs/movie.md)|
 |:---:|:---:|:---:|
-|[NSFW](./docs/nsfw.md)|||
+|[**NSFW**](./docs/nsfw.md)|[**Thesis**](./docs/thesis.md)||
 
 <br>
 

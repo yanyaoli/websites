@@ -1,5 +1,5 @@
 ## 介绍
-[**English**](./assets/English.md)
+[**English**](./English.md)
 
 这个仓库是为了收录一些有用的网站而创建的。
 
@@ -9,7 +9,7 @@
 
 |[文档类](./docs/document.md)|[视频类](./docs/video.md)|[观影类](./docs/movie.md)|
 |:---:|:---:|:---:|
-|[NSFW](./docs/nsfw.md)|||
+|[**NSFW**](./docs/nsfw.md)|[**论文**](./docs/thesis.md)||
 
 <br>
 
