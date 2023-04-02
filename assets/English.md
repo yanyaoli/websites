@@ -7,9 +7,9 @@ This repository was created to include some useful websites.
 
 ## Site List
 
-|[Document](./docs/document.md)|[Video](./docs/video.md)|[Movie](./docs/movie.md)|
+|[Document](../docs/document.md)|[Video](../docs/video.md)|[Movie](../docs/movie.md)|
 |:---:|:---:|:---:|
-|[**NSFW**](./docs/nsfw.md)|[**Thesis**](./docs/thesis.md)||
+|[**NSFW**](../docs/nsfw.md)|[**Thesis**](../docs/thesis.md)|[AI](../docs/ai.md)|
 
 <br>
 

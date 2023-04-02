@@ -7,9 +7,9 @@
 
 ## 网站列表
 
-|[文档类](./docs/document.md)|[视频类](./docs/video.md)|[观影类](./docs/movie.md)|
+|[文档类](../document.md)|[视频类](../docs/video.md)|[观影类](../docs/movie.md)|
 |:---:|:---:|:---:|
-|[**NSFW**](./docs/nsfw.md)|[**论文**](./docs/thesis.md)||
+|[**NSFW**](../docs/nsfw.md)|[**论文**](../docs/thesis.md)|[AI](../docs/ai.md)|
 
 <br>
 
