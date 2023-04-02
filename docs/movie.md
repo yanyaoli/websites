@@ -42,3 +42,9 @@
 |[Tunefind](https://www.tunefind.com/movies)|影视原声查找网站|
 |[麻花视频](http://www.mhyyy.com/)|提供最新热门电影、电视剧，综艺，动漫等免费、高清观看，页面暂无无广告。|
 |[茶杯虎](https://www.aisobb.com/)|通过电影名、演员、导演、电视剧、动漫等关键词进行搜索，直达电影资源站。|
+|[LeZhu](http://www.lezhutv.com/)|群友投稿，很不错★|
+|[低端影视](http://ddys.tv)|影视老站，YYDS|
+|[剧迷](https://gimytv.net/)|影视，小而美★|
+|[天空影视](https://tkznp.com/)|新起之秀★|
+|[Ebb](https://ebb.io/)|在线动漫，可备用|
+|[独播库](https://duboku.ru/)|大同小异|

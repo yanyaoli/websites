@@ -2,12 +2,13 @@
 
 |序号|网站|
 |:---:|:---:|
-|1|www.xvideos.com
-|2|www.xhamster.com
-|3|www.xnxx.com
-|4|www.pornhub.com
-|5|www.redtube.com
-|6|www.youporn.com
+|0|[ThePornDude](www.theporndude.com)
+|1|[XVideos](www.xvideos.com)
+|2|[XHAMSTER](www.xhamster.com)
+|3|[XNXX](www.xnxx.com)
+|4|[PornHub](www.pornhub.com)
+|5|[RedTube](www.redtube.com)
+|6|[YouPorn](www.youporn.com)
 |7|www.snapdo.com
 |8|www.livejasmin.com
 |9|www.youjizz.com
@@ -102,3 +103,8 @@
 |98|www.super.cz 
 |99|www.ah-me.com
 |100|www.fapdu.com
+|101|[桃花族](http://thzu.cc/)	
+|102|[Jable](https://jable.tv/)
+|103|[Missav](https://missav.com/)
+|104|[Netflav](https://netflav.com/)
+|105|[Hpjav](https://hpjav.tv/)
