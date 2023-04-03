@@ -11,7 +11,8 @@
 
 |[文档类](document.md)|[视频类](docs/video.md)|[观影类](docs/movie.md)|
 |:---:|:---:|:---:|
-|[**NSFW**](docs/nsfw.md)|[**论文**](docs/thesis.md)|[**AI**](docs/ai.md)|
+|[**NSFW**](docs/nsfw.md)|[**论文工具**](docs/thesis.md)|[**AI技术**](docs/ai.md)|
+|[**Apple**](docs/apple.md)|||
 
 ---
 
