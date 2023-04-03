@@ -2,13 +2,13 @@
 
 |序号|网站|
 |:---:|:---:|
-|0|[ThePornDude](www.theporndude.com)
-|1|[XVideos](www.xvideos.com)
-|2|[XHAMSTER](www.xhamster.com)
-|3|[XNXX](www.xnxx.com)
-|4|[PornHub](www.pornhub.com)
-|5|[RedTube](www.redtube.com)
-|6|[YouPorn](www.youporn.com)
+|0|[ThePornDude](https://www.theporndude.com)
+|1|[XVideos](https://www.xvideos.com)
+|2|[XHAMSTER](https://www.xhamster.com)
+|3|[XNXX](https://www.xnxx.com)
+|4|[PornHub](https://www.pornhub.com)
+|5|[RedTube](https://www.redtube.com)
+|6|[YouPorn](https://www.youporn.com)
 |7|www.snapdo.com
 |8|www.livejasmin.com
 |9|www.youjizz.com
