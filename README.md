@@ -9,10 +9,10 @@
 
 ### 网站列表
 
-|[文档工具](document.md)|[视频编辑](docs/video.md)|[观影网站](docs/movie.md)|
+|[文档工具](docs/document.md)|[视频工具](docs/video.md)|[观影网站](docs/movie.md)|
 |:---:|:---:|:---:|
-|[**NSFW**](docs/nsfw.md)|[**论文工具**](docs/thesis.md)|[**AI技术**](docs/ai.md)|
-|[**Apple**](docs/apple.md)|[**小说阅读**](docs/novel.md)||
+|[**NSFW**](docs/nsfw.md)|[**论文助手**](docs/thesis.md)|[**AI技术**](docs/ai.md)|
+|[**Apple**](docs/apple.md)|[**小说阅读**](docs/novel.md)|[**音乐工具**](docs/music.md)|
 
 ---
 

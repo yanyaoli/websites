@@ -9,10 +9,10 @@ Welcome **Start** / **Fork** :heart:
 
 ### Site List
 
-|[Document](document.md)|[Video](docs/video.md)|[Movie](docs/movie.md)|
+|[Document](../docs/document.md)|[Video](../docs/video.md)|[Movie](../docs/movie.md)|
 |:---:|:---:|:---:|
-|[**NSFW**](docs/nsfw.md)|[**Thesis**](docs/thesis.md)|[**AI**](docs/ai.md)|
-|[**Apple**](../docs/apple.md)|[**Novel**](../docs/novel.md)||
+|[**NSFW**](../docs/nsfw.md)|[**Thesis**](../docs/thesis.md)|[**AI**](../docs/ai.md)|
+|[**Apple**](../docs/apple.md)|[**Novel**](../docs/novel.md)|[**Music**](../docs/music.md)|
 ---
 
 ### How to contribute
