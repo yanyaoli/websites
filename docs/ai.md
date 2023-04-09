@@ -67,3 +67,8 @@
 |[openL](https://openl.io/) |一款基于OpenAI的翻译服务，支持常见的十五种语言，此外，还支持文章润色，语法检查等辅助写作功能。|
 |[writely](https://github.com/anc95/writely)|基于 Open AI GPT 模型，带来了全新的智能写作体验|
 |[ChatGPT学习宝典](https://gpt.candobear.com/) |方法与工具的分享。|
+|[Free ChatGPT Site List](https://cc.ai55.cc/)|在线提供众多免费好用的ChatGPT镜像站点|
+|[ChatGPT Sites](https://lzw.me/x/chatgpt-sites/)|搜集国内可用的 ChatGPT 在线体验免费网站列表。|
+|[Teach Anything](https://www.teach-anything.com/)|使用 AI 在几秒钟内教你任何东西，回答模式有简单和专业，支持多国语言应用|
+|[Vega Ai](https://rightbrain.art/text2Image)|由 Ai 生成虚拟人物精致图片|
+|[ChatPPT](https://chat-ppt.com/)|输入关键字，快速生成 PPT 演示内容，先加入内测进行使用|

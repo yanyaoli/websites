@@ -13,6 +13,7 @@ Welcome **Start** / **Fork** :heart:
 |:---:|:---:|:---:|
 |[**NSFW**](../docs/nsfw.md)|[**Thesis**](../docs/thesis.md)|[**AI**](../docs/ai.md)|
 |[**Apple**](../docs/apple.md)|[**Novel**](../docs/novel.md)|[**Music**](../docs/music.md)|
+|[**Design**](../docs/design.md)|||
 ---
 
 ### How to contribute

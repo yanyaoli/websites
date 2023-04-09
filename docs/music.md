@@ -3,6 +3,16 @@
 |网站|说明|
 |:---:|:---:|
 |[YesPlayMusic](https://github.com/qier222/YesPlayMusic)|第三方网易云播放器【推荐】|
+|[MyFreeMP3](https://tool.liumingye.cn/music/)|在线免费听+无损下载|
+|[Free music Player](http://ayy.ayxhk.com/)|在线免费听|
+|[mmPlayer](https://netease-music.fe-mm.com/)|在线免费听|
+|[铜钟](https://tonzhon.com/)|在线免费听|
+|[歌曲宝](https://www.gequbao.com/)|在线免费听+无损下载|
+|[放屁音乐网](https://www.fangpi.net/)|在线免费听+无损下载|
+|[煎饼搜](https://www.jbsou.cn/)|在线免费听+无损下载|
+|[无名音乐](https://thewind.xyz/)|在线免费听+无损下载|
+|[MusicEnc](https://www.musicenc.com/)|在线免费听|
+|[MP3 malina](https://mp3-banana.pro/)|「在线免费听+无损下载|
 |[波点音乐](https://apps.apple.com/cn/app/%E6%B3%A2%E7%82%B9%E9%9F%B3%E4%B9%90/id1541981555)|免费、无广告，颜值高、收录无版权音乐以MV形式播放。3000万曲库，包括流行、网红、古风、动漫、怀旧金曲、摇滚、电音、说唱、民遥、日语、欧美、韩语，所有歌曲应有尽有；陈奕迅、、林俊杰等大咖全部网罗。|
 |[免费开源音乐制作](https://midination.com/blog/free-music-production-software/)|2022年69个最佳免费开源音乐制作软件。|
 |[Dennis](https://www.dennis.video/)|音乐视频通过代码的形式生成|
