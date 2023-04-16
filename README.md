@@ -13,7 +13,7 @@
 |:---:|:---:|:---:|
 |[**NSFW**](docs/nsfw.md)|[**论文助手**](docs/thesis.md)|[**AI技术**](docs/ai.md)|
 |[**Apple**](docs/apple.md)|[**小说阅读**](docs/novel.md)|[**音乐工具**](docs/music.md)|
-|[**设计工具**](docs/design.md)|||
+|[**设计工具**](docs/design.md)|[**Chrome插件**](docs/chrome_plugin.md)||
 
 <br>
 
