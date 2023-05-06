@@ -116,4 +116,7 @@
 |[Learning Prompt](https://learningprompt.wiki/)|这是一份教你如何更好使好地使用 ChatGPT 和其他 AI 产品的免费教程。|
 |[Midjourney](https://www.midjourney.com/)|midjourney是一款搭载在discord上的人工智能绘画聊天机器人，mid目前是以公司的形式运营，软件本身还处在内测阶段，并没有完全对外开放。|
 |[ChatDOC](https://chatdoc.com/)|一款基于 ChatGPT 的文件阅读助手，它可以快速从 Word 文档中提取，定位和总结信息。目前的 ChatDOC 是免费使用的，文件大小现在限制为 150 页，最多可以上传 10 个文档。|
-|[AI Code Translator](https://ai-code-translator.vercel.app/)|一款AI程序翻译工具。可将一种语言的程序翻译成另外一种语言的程序。支持C++、python、Java、Go、PHP等非常多的编程语言。       |
+|[AI Code Translator](https://ai-code-translator.vercel.app/)|一款AI程序翻译工具。可将一种语言的程序翻译成另外一种语言的程序。支持C++、python、Java、Go、PHP等非常多的编程语言。 |
+|[灵动AiChat](https://chat.ai336.com/#iui.su)|国内最强免费免翻免登陆 GPT，响应迅速，消息基本秒回。|
+|[也略-ChatGPT](https://www.yelue.com/)|公益项目，完全免费，无需账号，直接提问。  |
+|[ChatBox](https://github.com/Bin-Huang/chatbox/)|开源的 ChatGPT 桌面应用，下载安装包直接运行，prompt 开发神器，Window、Mac、Linux全平台支持|
