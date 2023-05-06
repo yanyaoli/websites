@@ -1,28 +1,20 @@
-## 仓库介绍 
-[**English**](assets/English.md)
+## 介绍 
+收录一些有用的网站，涉及多个领域，可能对你有用。欢迎 **Star** / **Fork** :heart:
 
-收录一些有用的网站，涉及多个领域，可能对你有用。
+## 网站列表
 
-欢迎 **Start** / **Fork** :heart:
+- [AI](docs/ai.md)
+- [Apple](docs/apple.md)
+- [Chrome插件](docs/chrome_plugin.md)
+- [观影网站](docs/movie.md)
+- [论文助手](docs/thesis.md)
+- [NSFW](docs/nsfw.md)
+- [PPT](docs/ppt.md)
+- [设计](docs/design.md)
+- [视频工具](docs/video.md)
+- [文档工具](docs/document.md)
+- [小说阅读](docs/novel.md)
+- [音乐](docs/music.md)
 
----
-
-### 网站列表
-
-|[文档工具](docs/document.md)|[视频工具](docs/video.md)|[观影网站](docs/movie.md)|
-|:---:|:---:|:---:|
-|[**NSFW**](docs/nsfw.md)|[**论文助手**](docs/thesis.md)|[**AI技术**](docs/ai.md)|
-|[**Apple**](docs/apple.md)|[**小说阅读**](docs/novel.md)|[**音乐工具**](docs/music.md)|
-|[**设计工具**](docs/design.md)|[**Chrome插件**](docs/chrome_plugin.md)||
-
-<br>
-
-|主题|标签|
-|:---:|:---:|
-|**文档工具**|Word,Excel,PPT,PDF,思维导图,加密文件|
-
-
----
-
-### 如何贡献
-如果您有其他有用的网站推荐，欢迎提交**Issues**或者**PR**来添加。:heart:
+## 如何贡献
+如果您有其他有用的网站推荐，欢迎提交**Issues**或者**PR**来添加。:heart
