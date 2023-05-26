@@ -1,7 +1,7 @@
 # PPT
 
 |网站|说明|
-|:---:|:---:|
+|:---|:---|
 |[UiGradients(渐变色背景)](https://uigradients.com/)|为PPT找到优质的渐变色背景，用一张优质的渐变色图片做为PPT背景，可以整体提升你的PPT逼格。
 |[PPT超级市场](https://www.pptsupermarket.com/ppts)|一个完全免费的PPT模板下载网站，质量高，风格多，能够满足各行各业，各个节假日的PPT制作需求。
 |[Word联盟](http://www.wordlm.com/)|在线提供学习word，excel、ppt、wps等操作技巧office办公软件平台，有免费的、付费的教程
@@ -17,3 +17,4 @@
 |[PPT资源导航](http://www.hippter.com/)|为PPT设计提供创意灵感、配色方案、免费图片、优质图标、工具插件等
 |[PPT宝藏](http://www.pptbz.com/)|无需注册登入，可直接下载，有ppt课件、ppt图表，ppt背景图片、ppt图标等模板资源可供下载。
 |[打工人如何应付PPT](https://blog.varzy.me/how-to-do-ppt)|不管做 PPT 是因为什么，总之希望同为打工人的你我一切顺利！
+|[PPT模板](https://www.ppt-templates.cn/)|免费的PPT模板下载网站，无需注册登入即可下载
