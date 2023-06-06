@@ -2,6 +2,7 @@
 
 |网站|说明|
 |:---:|:---:|
+|[ChartGPT](https://www.chartgpt.dev/)|基于AI自动生成表格的工具，直接输入文本即可构建图表，表格类型包含了常用的条形图、折线图、散点图、饼图、树图等|
 |[多墨智能](https://duomosmart.com/)|基于AI的智能工作助手，支持生成文档、流程图、思维导图。全免费，不限时不限量。|
 |[ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web)|一键免费部署你的私人 ChatGPT 网页应用|
 |[awesome-chatgpt-zh](https://github.com/yzfly/awesome-chatgpt-zh)|收集了各种免费和付费的ChatGPT资源，以及如何更有效地与ChatGPT进行交流的方法|
